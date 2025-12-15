@@ -20,7 +20,7 @@ Full implementation code available upon request for:
 
 ## 📈 Preview
 ![Efficient Frontier](charts/efficient_frontier.png)
-![Equity Curves](charts/equity_curves.png)
+![Equity Curves](charts/equity_curve.png)
 
 ---
 *Built with Python, NumPy, Pandas, Matplotlib, and Scipy*
