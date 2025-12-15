@@ -3,7 +3,7 @@
 ## 📊 Key Findings
 - **Best Strategy:** Maximum Sharpe Portfolio (8.15% CAGR)
 - **Worst Drawdown:** -29.36% (COVID-19 crisis)
-- **Optimal Allocation:** ATW (35%), IAM (28%), MNG (20%)
+- **Optimal Allocation:** ATW (45.5%), TQA (48.6%), MNG (6.0%)
 
 ## 📁 Repository Contents
 - `TRADINGLIONS_Research.pdf` - Full research report
@@ -16,7 +16,7 @@ Full implementation code available upon request for:
 - TRADINGLIONS community members
 - Institutional partners
 
-**Contact:** your@email.com
+**Contact:** saadallah2002@gmail.com / saadallah@tradinglions.io
 
 ## 📈 Preview
 ![Efficient Frontier](charts/efficient_frontier.png)
